@@ -3,7 +3,7 @@
 
 
 <!-- link for this crazy Typing-Shit: https://readme-typing-svg.demolab.com/demo/-->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&weight=700&size=25&pause=1000&color=7353BD&width=435&lines=Full-Stack-Webdev-Student;always+learning+new+things!;passion+for+Game-Development" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&weight=700&size=25&pause=1000&color=7353BD&width=435&lines=Full-Stack-Developer;always+learning+new+things!;passion+for+Game-Development" alt="Typing SVG" /></a>
 
 
 <!-- link for GitHub Stats: https://streak-stats.demolab.com/demo/ -->
